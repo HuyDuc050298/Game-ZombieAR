@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/GoogleARCore/Examples/HelloAR/Scenes/Startgame.unity
+    guid: 945b153cfb6d80145931066dbbb67998
+  - enabled: 1
+    path: Assets/GoogleARCore/Examples/HelloAR/Scenes/HelloAR.unity
+    guid: e6a6fa04348cb45c9b0221eb19c946da
+  - enabled: 1
+    path: Assets/GoogleARCore/Examples/HelloAR/Scenes/GameOver.unity
+    guid: d0d88ffd89ecb834abd3cc4bda149524
+  - enabled: 1
+    path: Assets/GoogleARCore/Examples/HelloAR/Scenes/Win.unity
+    guid: 7544c96caa0042f4da18720b0e269fa9
+  m_configObjects: {}
